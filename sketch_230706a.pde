@@ -228,7 +228,7 @@ void draw() {
       text("Artista:Leonardo Sanchez ", 100, y -250);
     }
     if (y > 300) {
-      text("Programadora:Leonardo Sanchez ", 100, y -300);
+      text("Programador:Leonardo Sanchez ", 100, y -300);
     }
     
   
