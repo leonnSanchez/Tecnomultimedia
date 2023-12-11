@@ -18,7 +18,6 @@ function setup() {
 
 function draw() {
   aventura.mostrar();
-  text("x:"+ mouseX + ",y:"+ mouseY, mouseX, mouseY);
   if (keyIsPressed) { aventura.objJuego.teclaPresionada(keyCode); }
 }
 
