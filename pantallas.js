@@ -28,7 +28,7 @@ class Pantalla {
     this.textos[0][3] = "ya despierto decide salir a caminar y buscar algo que lo entretenga";
     this.textos[1][3] = "ya que ultimamente sus dias son aburridos";
     this.textos[0][4] = "se toma un vaso de leche y se queda pensando en lo triste que es su vida quedanso siempre ahi";
-    this.textos[1][4] = "Su presencia y habilidades marciales inspiran a los demás guerreros griegos, aumentando su moral y determinación para enfrentar a los troyanos";
+    this.textos[1][4] = "";
     this.textos[0][5] = "al tomar todo el vaso de leche se queda completamente dormido y pacifico";
     this.textos[1][5] = "al final del dia es lo que mas lo hace feliz";
     this.textos[0][6] = "en el camino se encuentra una señora que le dice que unos lobos estan molestando en el bosque";
